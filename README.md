@@ -1,1 +1,0 @@
-[![Java CI with Maven](https://github.com/ChrystianCSoares/Atividade-Pipeline-Ravel/actions/workflows/maven.yml/badge.svg)](https://github.com/ChrystianCSoares/Atividade-Pipeline-Ravel/actions/workflows/maven.yml)
